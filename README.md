@@ -10,19 +10,19 @@ All of the data produced from the class and subclass will show on this page.
 
 ### class.php
 
-Similar to what we went over in class, we want to create a php class, with objects and methods that we can extent to another class.
+Similar to what we went over in class, we want to create a php class, with objects and methods that we can extend to another class.
 
 Include the following:
 
-- function(s) that will take any type of paramters you want (string, number, array, etc), work with those parameters and deliver some sort of output.
+- function(s) that will take any type of parameters you want (string, number, array, etc), work with those parameters and deliver some sort of output.
 - make sure to use at least 2 php magic methods (one you pretty much have to have)
-- for example you could have the class accept text values and put them together for display (similar to what we did in class. you should try to come up with somethig original though)
+- for example you could have the class accept text values and put them together for display (similar to what we did in class. you should try to come up with something original though)
 
 ### subclass.php
 
 Here we want to extend the class we created in the above file
 
-You can have any number of methods that will in some way use the parent class but also implemennt it's own separate functionality
+You can have any number of methods that will in some way use the parent class but also implement it's own separate functionality
 
 Include the following
 

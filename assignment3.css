@@ -1,1 +1,42 @@
-/*styles for assignment 3*/
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("./img/paws.jpg");
+}
+
+#title {
+  background-color: #ADD8E6;
+  height: 8em;
+}
+
+h1 {
+  margin: 0;
+  text-align: center;
+  line-height: 2.5em;
+  font-family: "Trebuchet MS";
+  font-size: 3em;
+}
+
+section {
+  width: 80%;
+  margin: 3em auto 3em auto;
+  border-style: solid;
+  border-radius: 1em;
+  background-color: white;
+}
+
+img {
+  display: block;
+  width: 40%;
+  margin: 0 0 1em 0;
+}
+
+li {
+  list-style-type: none;
+  padding: 0 1em 0.5em 1em;
+  font-family: "Comic Sans MS";
+}
+
+#hide {
+  display: none;
+}
